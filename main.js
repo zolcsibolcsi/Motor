@@ -1,0 +1,1 @@
+alert("Üdvözöllek az oldalamon! A weboldalt kizárólag fejlődési céllal hoztam létre. Remélem tetszeni fog!")
